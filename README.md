@@ -14,7 +14,7 @@ A mock shopping cart application that fetches product data from the FakeStore AP
 
 ## Tech Stack
 
-* React
+* React (React-Router, Tailwind CSS)
 
 ## Getting Started
 
